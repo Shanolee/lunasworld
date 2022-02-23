@@ -1,0 +1,11 @@
+body{background-color: #F6C6DF;}
+h1{ font-family: courier; font-size: 50px; color: black;}
+h1{border-style: double; color: white;}
+h2{font-family: courier;font-size: 40px;color: white;}
+h3{font-family: courier; font-size: 20px; color: white}
+p{font-family: courier; font-size: 25px;color: white;}
+a{font-family: courier;font-size: 25px;color: white; text-decoration: none;}
+a:hover{color: hotpink;}
+ul{list-style: none;}
+
+
